@@ -26,7 +26,7 @@ class Square:
     def __init__(self,line):
         self.line = line
     def __str__(self):
-        return '{} x {} Square'.format(self.line)
+        return '{} x {} Square'.format(self.line,self.line)
     def __repr(self):
         return 'Square({})'.format(self.line)
     def perimeter(self):
