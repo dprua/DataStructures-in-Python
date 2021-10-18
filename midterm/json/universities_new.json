@@ -1,0 +1,20 @@
+{
+  "BU": {
+    "ceo": "June",
+    "name": "Big University",
+    "numberOfEmployee": 10000,
+    "rating": 3.9
+  },
+  "HGU": {
+    "ceo": "Holly Spirit",
+    "name": "handong global university",
+    "numberOfEmployee": 5000,
+    "rating": 5.0
+  },
+  "SS": {
+    "ceo": null,
+    "name": "Small Start-up",
+    "numberOfEmployee": 5,
+    "rating": 4.5
+  }
+}
